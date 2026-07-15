@@ -1,0 +1,32 @@
+{
+  "item": {
+    "id": "com.openblack.mahjong",
+    "restype": "quick_app",
+    "name": "杭州麻将",
+    "description": "一款麻将游戏",
+    "preview": [
+      "cover/1.png",
+      "cover/2.png"
+    ],
+    "icon": "build/common/icon.png",
+    "cover": "cover/cover.png",
+    "author": [
+      {
+        "name": "dm1366631",
+        "bindABAccount": false
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "dist/com.openblack.mahjong.release.1.0.0.rpk"
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "dist/com.openblack.mahjong.release.1.0.0.rpk"
+    }
+  },
+  "ext": {}
+}
