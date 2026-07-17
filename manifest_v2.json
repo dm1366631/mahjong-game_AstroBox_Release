@@ -3,27 +3,43 @@
     "id": "com.openblack.mahjong",
     "restype": "quick_app",
     "name": "杭州麻将",
-    "description": "一款麻将游戏",
+    "description": "由于想在学校打麻将，所以我们做了这个",
     "preview": [
       "cover/1.png",
-      "cover/2.png"
+      "cover/2.png",
+      "cover/3.png",
+      "cover/4.png"
     ],
-    "icon": "build/common/icon.png",
-    "cover": "cover/cover.png",
+    "icon": "src/common/icon.png",
+    "cover": "cover/cover.jpg",
     "author": [
       {
         "name": "dm1366631",
-        "bindABAccount": false
+        "bindABAccount": true
       }
     ]
   },
-  "links": [],
+  "links": [
+    {
+      "icon": "github-logo",
+      "title": "mahjong-game",
+      "url": "https://github.com/dm1366631/mahjong-game"
+    }
+  ],
   "downloads": {
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "dist/com.openblack.mahjong.release.1.0.0.rpk"
+    },
     "xmb10": {
       "version": "1.0.0",
       "file_name": "dist/com.openblack.mahjong.release.1.0.0.rpk"
     },
-    "xmb10nfc": {
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "dist/com.openblack.mahjong.release.1.0.0.rpk"
+    },
+    "xmb9p": {
       "version": "1.0.0",
       "file_name": "dist/com.openblack.mahjong.release.1.0.0.rpk"
     }
